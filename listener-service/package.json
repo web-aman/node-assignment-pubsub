@@ -1,0 +1,11 @@
+{
+  "name": "listener-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "mongoose": "^7.6.1",
+    "redis": "^4.6.7"
+  }
+}
