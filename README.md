@@ -2,7 +2,7 @@
 
 - Navigate to the folder:
 
-  cd microservice-pubsub-architecture
+  cd node-assignment-pubsub
 
 - You need to run the docker compose file in your system by using this command
 
